@@ -56,8 +56,8 @@ I'm Daniyal Master, a 14 year old self taught developer from Canada. I'm current
 
 - 📧 Email: daniyalmaster693@gmail.com
 - 📷 Instagram: https://www.instagram.com/daniyal.m_/
-- 🖱️ Frontend Mentor: https://www.frontendmentor.io/profile/Blaze4884
-- ⌨️ Codepen: https://codepen.io/Blaze4884/pens/showcase
+- 🖱️ Frontend Mentor: https://www.frontendmentor.io/profile/daniyalmaster693
+- ⌨️ Codepen: https://codepen.io/daniyalmaster693
 
 ## A Few Things About Me 🤌
 
