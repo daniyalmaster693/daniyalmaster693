@@ -24,10 +24,10 @@ I'm Daniyal Master, a 14 year old self taught developer from Canada. I'm current
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
-## Connect with Me 💻
+## Connect with Me 🌐
 
 - 📧 Email: daniyalmaster693@gmail.com
-- 🌐 Website: https://daniyalmaster.vercel.app/
+- 💻 Website: https://daniyalmaster.vercel.app/
 - 🖇️ Linkedin: https://www.linkedin.com/in/daniyal-master-841925319/
 - 🖱️ Frontend Mentor: https://www.frontendmentor.io/profile/daniyalmaster693
 - ⌨️ Codepen: https://codepen.io/daniyalmaster693
