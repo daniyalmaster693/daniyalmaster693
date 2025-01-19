@@ -32,11 +32,11 @@
 
 ## Connect with Me 🌐
 
-- <code>📧 Email: daniyalmaster693@gmail.com</code>
-- <code>💻 Website: https://daniyalmaster.vercel.app/</code>
-- <code>🖇️ Linkedin: https://www.linkedin.com/in/daniyal-master-841925319/</code>
-- <code>🖱️ Frontend Mentor: https://www.frontendmentor.io/profile/daniyalmaster693</code>
-- <code>⌨️ Codepen: https://codepen.io/daniyalmaster693</code>
+- <code>Email: daniyalmaster693@gmail.com</code>
+- <code>Website: https://daniyalmaster.vercel.app/</code>
+- <code>Linkedin: https://www.linkedin.com/in/daniyal-master-841925319/</code>
+- <code>Frontend Mentor: https://www.frontendmentor.io/profile/daniyalmaster693</code>
+- <code>Codepen: https://codepen.io/daniyalmaster693</code>
 <br>
 
 ## Github Activity 🍎
