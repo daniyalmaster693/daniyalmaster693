@@ -1,10 +1,10 @@
-## Hey!  👋
+## Hey! 👋
 
 <code>I'm Daniyal, a 14 year old self taught developer from Canada.</code>
 <br>
 <br>
 
-## My Skills  ⌨️
+## My Skills ⌨️
 
 <code>**Languages**:</code>
 
@@ -30,7 +30,7 @@
 <br>
 <br>
 
-## Connect with Me  🌐
+## Connect with Me 🌐
 
 - <code>Email: daniyalmaster693@gmail.com</code>
 - <code>Website: https://daniyalmaster.vercel.app/</code>
@@ -39,7 +39,7 @@
 - <code>Codepen: https://codepen.io/daniyalmaster693</code>
 <br>
 
-## Github Activity  🍎
+## Github Activity 🍎
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniyalmaster693/daniyalmaster693/output/github-contribution-grid-snake-dark.svg">
