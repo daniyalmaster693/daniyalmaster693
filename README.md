@@ -31,3 +31,6 @@ I'm Daniyal Master, a 14 year old self taught developer from Canada. I'm current
 - 🖇️ Linkedin: https://www.linkedin.com/in/daniyal-master-841925319/
 - 🖱️ Frontend Mentor: https://www.frontendmentor.io/profile/daniyalmaster693
 - ⌨️ Codepen: https://codepen.io/daniyalmaster693
+
+![GitHub Snake Animation](https://github.com/daniyalmaster693/daniyalmaster693/blob/output/dist/snake.svg)
+
