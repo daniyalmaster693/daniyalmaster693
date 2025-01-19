@@ -32,7 +32,7 @@ I'm Daniyal Master, a 14 year old self taught developer from Canada. I'm current
 - 🖱️ Frontend Mentor: https://www.frontendmentor.io/profile/daniyalmaster693
 - ⌨️ Codepen: https://codepen.io/daniyalmaster693
 
----
+## Github Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniyalmaster693/daniyalmaster693/output/github-contribution-grid-snake-dark.svg">
