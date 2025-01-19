@@ -32,5 +32,9 @@ I'm Daniyal Master, a 14 year old self taught developer from Canada. I'm current
 - 🖱️ Frontend Mentor: https://www.frontendmentor.io/profile/daniyalmaster693
 - ⌨️ Codepen: https://codepen.io/daniyalmaster693
 
-![GitHub Snake Animation](https://github.com/daniyalmaster693/daniyalmaster693/blob/output/dist/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniyalmaster693/daniyalmaster693/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniyalmaster693/daniyalmaster693/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daniyalmaster693/daniyalmaster693/output/github-contribution-grid-snake.svg">
+</picture>
 
