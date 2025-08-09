@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-<code>I'm Daniyal, a 15 year old self taught developer from Canada.</code>
+<code>I'm Daniyal, a self taught developer from Canada.</code>
 <br>
 <br>
 
